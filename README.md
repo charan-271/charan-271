@@ -5,23 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/charan_271" target="blank"><img src="https://img.shields.io/twitter/follow/charan_271?logo=twitter&style=for-the-badge" alt="charan_271" /></a> </p>
 
-- 🔭 I’m currently working on [.](.)
 
-- 🌱 I’m currently learning **.**
-
-- 👯 I’m looking to collaborate on [.](.)
-
-- 🤝 I’m looking for help with [..](.)
-
-- 👨‍💻 All of my projects are available at [.](.)
-
-- 💬 Ask me about **.**
-
-- 📫 How to reach me **charankumarsingamsetti271@gmail.com**
-
-- 📄 Know about my experiences [..](..)
-
-- ⚡ Fun fact **.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
